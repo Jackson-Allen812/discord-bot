@@ -1,9 +1,5 @@
-import os.path
 from os import path
 import random
-
-# this is for a later function that will be added to the bot
-# it will be an Awards function where you can gift individuals a certain amount of 'money' in response to a post they liked
 
 
 def write_to_file(id_, amount):
